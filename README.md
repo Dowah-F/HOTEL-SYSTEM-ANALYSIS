@@ -1,7 +1,7 @@
 # Hotel Management System - Documents
 
 ## 1. Phân tích hệ thống hiện tại
-- [Rich Picture](./1_System_Analysis/1.2_Current_System/Rich_Picture.png) <img width="1907" height="859" alt="image" src="https://github.com/user-attachments/assets/f6e31f45-69b4-4409-af57-fbf471791a85" />
+- [Rich Picture] <img width="3840" height="2160" alt="Rich-Picture-level-0" src="https://github.com/user-attachments/assets/757edf7d-0e41-4726-9875-1bdbf1d6c139" />
 
 - [Stakeholder Wheel](./1_System_Analysis/1.3_Stakeholder_Analysis/Stakeholder_Wheel.png)
 - [Ma trận RACI](./1_System_Analysis/1.3_Stakeholder_Analysis/RACI_Matrix.xlsx)
