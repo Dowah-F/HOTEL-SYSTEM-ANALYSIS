@@ -3,18 +3,37 @@
 ## 1. Phân tích hệ thống hiện tại
 - [Rich Picture] <img width="3840" height="2160" alt="Rich-Picture-level-0" src="https://github.com/user-attachments/assets/757edf7d-0e41-4726-9875-1bdbf1d6c139" />
 
-- [Stakeholder Wheel](./1_System_Analysis/1.3_Stakeholder_Analysis/Stakeholder_Wheel.png)
-- [Ma trận RACI](./1_System_Analysis/1.3_Stakeholder_Analysis/RACI_Matrix.xlsx)
-- [Sơ đồ As-Is](./1_System_Analysis/1.4_AsIs_Diagram.png)
-- [Fishbone Diagram](./1_System_Analysis/1.5_Current_Issues/Fishbone_Diagram.png)
+- [Stakeholder Wheel] <img width="3840" height="2160" alt="Stakeholder-wheel" src="https://github.com/user-attachments/assets/ba854002-473d-4029-8f0f-f14048607f2f" />
+
+- [Ma trận RACI]
+- [Sơ đồ As-Is]
+<img width="1498" height="854" alt="Main-Process" src="https://github.com/user-attachments/assets/7b441c2d-8c6c-4a34-b593-9bfc9ef51e83" />
+<img width="3506" height="2341" alt="Process-1-As-Is" src="https://github.com/user-attachments/assets/ff6b9140-e7c6-4724-93d9-b7eec5a127e0" />
+<img width="3718" height="2036" alt="Process-2-As-Is" src="https://github.com/user-attachments/assets/a1a9c0c2-f67a-4825-b71b-67f1f6d03f62" />
+<img width="4210" height="1952" alt="Process-3-As-Is" src="https://github.com/user-attachments/assets/84268a11-e064-4442-a16a-9622e148b68c" />
+<img width="4250" height="760" alt="Sub-Process-1-As-Is" src="https://github.com/user-attachments/assets/13b3689c-2c9c-4db1-8e02-8df28d51e5ce" />
+
+- [Fishbone Diagram] <img width="2048" height="1536" alt="Fishbone" src="https://github.com/user-attachments/assets/87860af4-9035-4e5a-bf82-1fec48202900" />
 
 ## 2. Yêu cầu hệ thống mới
-- [Yêu cầu chức năng và phi chức năng](./2_System_Requirements/2.1_System_Requirements.docx)
-- [Sơ đồ To-Be](./2_System_Requirements/2.3_ToBe_Diagram.png)
+- [Yêu cầu chức năng và phi chức năng]
+- [Sơ đồ To-Be]
+  <img width="1468" height="904" alt="Main-Process-To-Be" src="https://github.com/user-attachments/assets/c228dbbd-8d36-4df1-90e6-7c9b6bab021c" />
+  <img width="3970" height="2433" alt="Process-1-To-Be" src="https://github.com/user-attachments/assets/b3052147-4683-4ced-ad7f-3ea3e85ccea6" />
+  <img width="3812" height="1886" alt="Process-3-To-Be" src="https://github.com/user-attachments/assets/3fc868ba-f84d-4056-a12c-afdcf4b1c883" />
+  <img width="3804" height="767" alt="Sub-Process-1-To-Be" src="https://github.com/user-attachments/assets/6a39fcd9-c2f9-4b2b-9ca0-4114239b88bf" />
 
 ## 3. Thiết kế hệ thống
-- [Use Case Diagram](./3_System_Design/3.1_UseCase_Diagram.png)
-- [Đặc tả Use Case](./3_System_Design/3.2_UseCase_Specification.docx)
-- [ERD](./3_System_Design/3.3_ERD.png)
-- [Class Diagram](./3_System_Design/3.4_Class_Diagram.png)
+- [Use Case Diagram]
+  ![uc_level0](https://github.com/user-attachments/assets/1d05896c-cf36-4870-843e-72c5f201d0ab)
+  ![uc_level1_khachhang](https://github.com/user-attachments/assets/8317b282-0953-42ba-9f71-7821bbe171b2)
+  ![uc_level1_nhanvien](https://github.com/user-attachments/assets/a9c81d51-1d95-4b1d-8769-79eb9ce0ecf4)
+  ![uc_level1_quanly](https://github.com/user-attachments/assets/d6dab62c-a27a-4f0c-8a22-f42a65a26fad)
+  ![uc_level1_quanly_letan](https://github.com/user-attachments/assets/0bddb744-27cd-4863-b085-875df8aadf71)
+  
+- [Đặc tả Use Case]
+- [ERD] ![ERD](https://github.com/user-attachments/assets/57c82a9f-e2b3-45e9-88c4-a3ff673cabcc)
+
+- [Class Diagram] ![Class-Diagram](https://github.com/user-attachments/assets/63306533-0c35-4520-aaa7-f56c7ec9487c)
+
 
